@@ -1,0 +1,43 @@
+#test a:link.www{
+    color:yellow;
+}
+    
+#test a:visited.www{
+    color:brown;
+}
+    
+#test a:hover.www{
+    color:blue;
+}
+    
+#test a:active.www{
+    color:green;
+}
+
+
+.eee a:link.www{
+    color:red;
+}
+    
+.eee a:visited.www{
+    color:yellow;
+}
+    
+.eee a:hover.www{
+    color:blue;
+}
+    
+.eee a:active.www{
+    color:purple;
+}
+
+#d1{
+	text-decoration: underline;
+}
+#d2{
+	text-decoration: line-through;
+}
+
+#d3{
+	text-decoration: overline;
+}

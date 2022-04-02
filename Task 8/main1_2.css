@@ -1,0 +1,18 @@
+#test a:link,#test a:visited{
+    text-decoration:none;
+    color:red;
+}
+    
+#test a:hover{
+    text-decoration:underline;
+    color: blue; 
+}
+
+a:link.www,a:visited.www{
+    text-decoration:underline;
+    color:blue;
+}
+    
+a:hover.www{
+    text-decoration:none
+}
